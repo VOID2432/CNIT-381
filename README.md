@@ -8,3 +8,6 @@ Created the repository , configured Git, cloned it locally, and made my first co
 Practiced team Git collaboration with a partner: feature branches, pull
 requests, code review, and resolving a merge conflict on a shared network
 inventory site.
+
+## Week 3
+Containerized a duplicate-IP checker with Docker and published the image to Docker Hub.
