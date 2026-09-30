@@ -11,3 +11,6 @@ inventory site.
 
 ## Week 3
 Containerized a duplicate-IP checker with Docker and published the image to Docker Hub.
+
+## Week 5
+Called the GitHub REST API from Python to read my repo and create an issue.
