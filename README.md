@@ -18,3 +18,9 @@ with CI/CD that regenerates and validates the configs on every change.
 
 ## Week 5
 Called the GitHub REST API from Python to read my repo and create an issue.
+
+## Week 6
+**What I built:** A Python checker for our IP address plan, packaged in
+Docker, run by GitHub Actions on every push, that opens a GitHub issue
+through the API when the plan has errors.
+**Repo:** https://github.com/VOID2432/ip-plan-check
