@@ -31,3 +31,8 @@ and wrote my own playbook to back up the configs. What I learned: I learned how 
 
 ## Week 9: Build a Network and Automate It End to End 
 What I built: a CML topology (2 routers, a switch, and an Ubuntu control node), bootstrapped the devices by hand, then used Ansible to configure loopbacks, EIGRP, a login banner, and to back up all devices. What I learned: How to write playbooks to configure multiple network devices.
+
+# Week 10: Ansible on a CSR with the DEVASC VM
+What I did: moved from CML to the DEVASC VM and a CSR1000v, set up the hosts
+inventory and ansible.cfg, backed up the config, and configured IPv6.
+What I learned: I learned how to push a playbook out to an image of a real network device, as well as how to make a playbook to configure IPv6.
