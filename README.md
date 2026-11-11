@@ -36,3 +36,7 @@ What I built: a CML topology (2 routers, a switch, and an Ubuntu control node), 
 What I did: moved from CML to the DEVASC VM and a CSR1000v, set up the hosts
 inventory and ansible.cfg, backed up the config, and configured IPv6.
 What I learned: I learned how to push a playbook out to an image of a real network device, as well as how to make a playbook to configure IPv6.
+
+## Week 11: RESTCONF on a 3650 Switch
+What I did: enabled RESTCONF on the switch, then read and changed its config
+with Postman and a Python script. What I learned: I learned how to use both Postman and Python to configure and read configs on a switch.
