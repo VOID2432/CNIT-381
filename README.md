@@ -40,3 +40,11 @@ What I learned: I learned how to push a playbook out to an image of a real netwo
 ## Week 11: RESTCONF on a 3650 Switch
 What I did: enabled RESTCONF on the switch, then read and changed its config
 with Postman and a Python script. What I learned: I learned how to use both Postman and Python to configure and read configs on a switch.
+
+## Week 12 — AI Network Agent Web App
+**What I built:** A Streamlit web app on my CML Ubuntu node — an
+AI agent page that configures R1, R2, and SW1 from plain-English requests,
+and a live dashboard that shows interface status pulled from the devices.
+**What I learned:** How an MCP tool server, an AI model, and a web page fit
+together — the agent calls tools in a loop, and the dashboard reads the
+devices live instead of from a saved file
